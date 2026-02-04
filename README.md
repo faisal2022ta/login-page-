@@ -20,7 +20,8 @@ It has cool animations, light & dark modes, stars, sun & moon, and 3D buttons. W
 ## Try it Online
 
 [Live Demo Link]
-https://github.com/faisal2022ta/login-page-
+
+ https://faisal2022ta.github.io/login-page-/
 ---
 
 
