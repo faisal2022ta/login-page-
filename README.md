@@ -19,12 +19,10 @@ It has cool animations, light & dark modes, stars, sun & moon, and 3D buttons. W
 
 ## Try it Online
 
-[Live Demo Link](https://yourusername.github.io/cinematic-login-page)
-
+[Live Demo Link]
+https://github.com/faisal2022ta/login-page-
 ---
 
-## How to Use
 
-1. Clone the project:
-   ```bash
-   git clone https://github.com/faisal2022ta/cinematic-login-page.git
+
+
