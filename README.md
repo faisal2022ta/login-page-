@@ -14,6 +14,11 @@ It has cool animations, light & dark modes, stars, sun & moon, and 3D buttons. W
 - **Responsive:** Works on mobile, tablet, and desktop  
 
 ---
+##Screenshot add
+
+1.<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/36e11f81-4a65-4b20-8663-04039961974e" />
+2.<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/67b7d326-411a-4c2c-a37a-68748a71d25e" />
+3.![Uploading image.png…]()
 
 
 
